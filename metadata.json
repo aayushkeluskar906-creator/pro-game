@@ -1,0 +1,8 @@
+{
+  "name": "Remix GameSphere",
+  "description": "An all-in-one hub for discovering, playing, and managing your favorite web-based games in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
